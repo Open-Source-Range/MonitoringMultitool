@@ -30,3 +30,4 @@ Nine multitools on a 12"x12" piece of plywood was the max that would fit on our 
  - [MToolv2-0_x9_OutlineOnly.svg](./MToolv2-0_x9_OutlineOnly.svg) - Multitool outline only
 
 The [Multitool_Laser_Instructions.docx](./Multitool_Laser_Instructions.docx) file gives instructions for the FSL Hobby Series laser using RetinaEngrave.
+The [Monitoring_Multi-tool.zip](./Monitoring_Multi-tool.zip) contains all the .svg files plus the RetinaEngrave cut files for the FSL Hobby-series laser.
